@@ -2,3 +2,4 @@
 jhdf
 menyaem stroku na ...
 # test lineNEW
+add stroke 1

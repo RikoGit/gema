@@ -5,4 +5,5 @@ menyaem stroku na ...
 add stroke 1 and 2
 add stroke 3
 add stroke 4
-vetka1:  other iss53 
+vetka1:  other iss53
+vetka2: merge and conflict.

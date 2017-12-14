@@ -3,3 +3,4 @@ jhdf
 menyaem stroku na ...
 # test lineNEW
 add stroke 1 and 2
+add stroke 3

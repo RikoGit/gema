@@ -1,7 +1,8 @@
 {
-  "name": "typed-styles",
+  "name": "typed-styles_1.0",
   "version": "0.0.1",
   "description": "Typed styles for CSS in JS",
+  "author": "Rik Git <r.git@lenta.ru>",
   "scripts": {
     "clean": "rimraf lib/*",
     "lint": "eslint src",
@@ -26,7 +27,7 @@
     "styled-components",
     "primitives"
   ],
-  "author": "Rik Git <r.git@lenta.ru>",
+  "main": "index", 
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.23.0",
